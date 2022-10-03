@@ -1,10 +1,18 @@
 # Pong Arcade
+Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, desenvolvido pela Atari e lançado originalmente em 1972
 
-## Descrição 
-- desenvolvi o jogo do zero na linguagem javascript 
+## Descrição do meu projeto
+- treinei lógica de programação usando `javascript` e `scratch`
+- criei um jogo completo, com animações, controles, sons e placar em `JS`
 - aprendi a trabalhar com variáveis e funções em `JS`
+- aprendi utilizar em meus projetos códigos compartilhado no Github de outros desenvolvedores
 
 > Status do projeto: concluído
+
+## Preview
+![pong](https://user-images.githubusercontent.com/80296330/193681481-feacb508-d7b0-409d-8819-52a9e8842a41.png)
+
+
 
 ## Acessar o projeto e rodar 📁
 para jogar o jogo é necessário fazer download do arquivo e abrir o ``index.html`` 
