@@ -1,4 +1,4 @@
-# Pong Arcade
+## Pong Arcade
 Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, desenvolvido pela Atari e lançado originalmente em 1972
 
 ## Sobre o projeto
